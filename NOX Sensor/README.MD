@@ -24,7 +24,8 @@ Connect the Continental NOx sensor to the ESP32 board as follows:
 | ---------- | ----------- |
 | VCC        | 3.3V        |
 | GND        | GND         |
-| Signal     | GPIO 34     |
+| Signal  L  | GPIO     OP |
+| Signal  H  | GPIO     OP |
 
 ## Code Explanation
 

@@ -14,6 +14,6 @@ satellite ID numbers,
 elevation, azimuth, 
 and SNR values.
 
-** Example 2 (Multi-constellation): **
+## Example 2 (Multi-constellation): ##
 
 $GNRMC,204520.00,A,5109.0262239,N,11401.8407338,W,0.004,102.3,130522,0.0,E,D*3B

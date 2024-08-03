@@ -35,7 +35,7 @@ void loop(void) {
     CAN.write(0);
     CAN.write(0);
     CAN.write(0);
-    CAN.write(4);
+    //CAN.write(4);
     CAN.endPacket();
   }
   

@@ -7,7 +7,7 @@ BluetoothSerial SerialBT;
 #define DEBUG_PORT Serial
 
 
-ELM327 myELM327;
+//ELM327 myELM327;
 
 
 uint32_t rpm = 0;
